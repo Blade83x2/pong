@@ -1,5 +1,6 @@
 git init
 git add *
 git commit -m "first commit"
-git remote add origin https://github.com/Blade83x2/pong.git
-git push -u origin master
+git remote add origin https://github.com/Blade83x2/pong.git // repo setzen
+git push -u origin master // upload
+git pull -u origin master // download
