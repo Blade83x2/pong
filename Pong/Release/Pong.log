@@ -1,0 +1,17 @@
+﻿Der Buildvorgang wurde am 05.03.2014 00:20:22 gestartet.
+     1>Projekt "C:\Users\Blade83\Desktop\C++\Pong\Pong\Pong.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Blade83\Desktop\C++\SFML VS12\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp main.cpp
+         Game.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Blade83\Desktop\C++\Pong\Release\Pong.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Blade83\Desktop\C++\SFML VS12\lib\Release" "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Blade83\Desktop\C++\Pong\Release\Pong.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Blade83\Desktop\C++\Pong\Release\Pong.lib" /MACHINE:X86 /SAFESEH Release\Game.obj
+         Release\main.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         Pong.vcxproj -> C:\Users\Blade83\Desktop\C++\Pong\Release\Pong.exe
+     1>Die Erstellung des Projekts "C:\Users\Blade83\Desktop\C++\Pong\Pong\Pong.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:02.14
